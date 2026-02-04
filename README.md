@@ -15,4 +15,7 @@ a game of checkers developped using pygame and basic python you can use as a sma
 
 ### Idriss El Moussaouiti
 
-https://www.pygame.org/news
+School Project
+
+This project was created as part of a school assignment using resources, tutorials, and example games from https://www.pygame.org/news to learn Python and Pygame.
+
